@@ -3,6 +3,9 @@ uuid = "8233a84d-1b20-4e2a-a7c3-f412b89ed95c"
 authors = ["Harvey Wang"]
 version = "0.1.0"
 
+[dep]
+Statistics
+
 [compat]
 julia = "1"
 
